@@ -39,3 +39,6 @@ The presentation file `MLUnsupversisedLearningPresentationFile_EthanLam.pdf` is 
 ##### PCA
 - Use Explained variance ratio to find the features that has most information
 - Ploting the class separation using the principal components founded
+
+##### Conclusion
+- By using Clustering, we can classify customer into specific groups so that as a company, it is good for them to address the need of each groups precisely
